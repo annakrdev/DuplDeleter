@@ -11,3 +11,13 @@ DuplDeleter.py is a Python script designed to check and remove duplicate files w
 3. Run the script with the following command:
    ```bash
    python3 DuplDeleter.py folder_path [file_extensions] [-r]
+
+folder_path: Path to the folder containing files.
+file_extensions: (Optional) Specify file extensions to check for duplicates.
+-r or --recursive: (Optional) Search files in all subdirectories recursively.
+
+The script will display information about duplicate files found, including their hash values.
+
+If duplicates are found, you will be prompted to confirm if you want to remove them.
+
+Respond with "Yes" or "No" to proceed or abort the deletion process.
