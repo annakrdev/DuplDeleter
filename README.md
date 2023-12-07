@@ -1,6 +1,6 @@
 # DuplDeleter.py
 
-<small>Please exercise caution when deleting files, and ensure you have a backup if needed. Have a good day.</small>
+Please exercise caution when deleting files, and ensure you have a backup if needed. Have a good day.
 
 ## Overview
 DuplDeleter.py is a Python script designed to check and remove duplicate files within a specified folder. It calculates the hash values of files to identify duplicates and provides options to remove them.
