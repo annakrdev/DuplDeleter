@@ -1,5 +1,7 @@
 # DuplDeleter.py
 
+<small>Please exercise caution when deleting files, and ensure you have a backup if needed. Have a good day.</small>
+
 ## Overview
 DuplDeleter.py is a Python script designed to check and remove duplicate files within a specified folder. It calculates the hash values of files to identify duplicates and provides options to remove them.
 
@@ -27,7 +29,3 @@ Respond with "Yes" or "No" to proceed or abort the deletion process.
 Check for duplicate files in the folder '/home/user/Documents' with file extensions 'txt' and 'pdf', including subdirectories:
    ```bash
    python3 DuplDeleter.py /home/user/Documents txt pdf -r
-
-
-
-Please exercise caution when deleting files, and ensure you have a backup if needed. have a good day.
