@@ -25,8 +25,9 @@ Respond with "Yes" or "No" to proceed or abort the deletion process.
 ## Example
 
 Check for duplicate files in the folder '/home/user/Documents' with file extensions 'txt' and 'pdf', including subdirectories:
-```bash
-python3 DuplDeleter.py /home/user/Documents txt pdf -r
+   ```bash
+   python3 DuplDeleter.py /home/user/Documents txt pdf -r
+
 
 
 Please exercise caution when deleting files, and ensure you have a backup if needed. have a good day.
